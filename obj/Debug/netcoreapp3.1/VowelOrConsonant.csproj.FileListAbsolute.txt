@@ -1,0 +1,14 @@
+C:\Users\gokul\source\repos\VowelOrConsonant\bin\Debug\netcoreapp3.1\VowelOrConsonant.exe
+C:\Users\gokul\source\repos\VowelOrConsonant\bin\Debug\netcoreapp3.1\VowelOrConsonant.deps.json
+C:\Users\gokul\source\repos\VowelOrConsonant\bin\Debug\netcoreapp3.1\VowelOrConsonant.runtimeconfig.json
+C:\Users\gokul\source\repos\VowelOrConsonant\bin\Debug\netcoreapp3.1\VowelOrConsonant.runtimeconfig.dev.json
+C:\Users\gokul\source\repos\VowelOrConsonant\bin\Debug\netcoreapp3.1\VowelOrConsonant.dll
+C:\Users\gokul\source\repos\VowelOrConsonant\bin\Debug\netcoreapp3.1\VowelOrConsonant.pdb
+C:\Users\gokul\source\repos\VowelOrConsonant\obj\Debug\netcoreapp3.1\VowelOrConsonant.csproj.AssemblyReference.cache
+C:\Users\gokul\source\repos\VowelOrConsonant\obj\Debug\netcoreapp3.1\VowelOrConsonant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokul\source\repos\VowelOrConsonant\obj\Debug\netcoreapp3.1\VowelOrConsonant.AssemblyInfoInputs.cache
+C:\Users\gokul\source\repos\VowelOrConsonant\obj\Debug\netcoreapp3.1\VowelOrConsonant.AssemblyInfo.cs
+C:\Users\gokul\source\repos\VowelOrConsonant\obj\Debug\netcoreapp3.1\VowelOrConsonant.csproj.CoreCompileInputs.cache
+C:\Users\gokul\source\repos\VowelOrConsonant\obj\Debug\netcoreapp3.1\VowelOrConsonant.dll
+C:\Users\gokul\source\repos\VowelOrConsonant\obj\Debug\netcoreapp3.1\VowelOrConsonant.pdb
+C:\Users\gokul\source\repos\VowelOrConsonant\obj\Debug\netcoreapp3.1\VowelOrConsonant.genruntimeconfig.cache
